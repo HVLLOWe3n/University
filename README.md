@@ -1,4 +1,4 @@
-## Fucking University Projects (NUFT Ukraine university)
+# Fucking University Projects (NUFT Ukraine university)
 
-# University
+## University
 Simple C++ Project for University Exam
