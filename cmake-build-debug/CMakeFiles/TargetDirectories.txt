@@ -1,0 +1,3 @@
+/Users/romansynovets/CLionProjects/University/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/romansynovets/CLionProjects/University/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/romansynovets/CLionProjects/University/cmake-build-debug/CMakeFiles/University.dir
